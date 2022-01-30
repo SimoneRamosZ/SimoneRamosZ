@@ -1,8 +1,7 @@
-👋 Hi, I’m Simone Ramos
-👀 I’m interested in learning about software development
-🌱 I’m currently learning .NET and C#
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Simone Ramos
+- 👀 I’m interested in learning about software development
+- 🌱 I’m currently learning .NET and C#
+
 
 <!---
 SimoneRamosZ/SimoneRamosZ is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
