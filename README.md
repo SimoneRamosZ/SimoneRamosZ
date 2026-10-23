@@ -24,7 +24,7 @@ Fique à vontade para me chamar! 😊
 
 📫 **Contato:**  
 
-- LinkedIn: **  
+- LinkedIn: [in/simone-ramos-zang](https://www.linkedin.com/in/simone-ramos-zang)
 - Email: *simonecaetano134@gmail.com*  
 
 ---
