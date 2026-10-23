@@ -1,9 +1,8 @@
-# Olá! Me chamo Simone! 
+# Olá! Seja bem vindo(a) ao meu GitHub! 😊
 
-Seja bem vindo(a) ao meu GitHub! 😊
 Sou **estudante de programação** com foco em **Backend**, minha motivação é participar na criação de soluções que realmente **fazem a diferença na vida das pessoas**.
 
-Minha principal stack é **ASP.NET Core**, e estou constantemente estudando sobre programação em geral.
+Minha principal stack é **.NET (ASP.NET Core)**, e estou constantemente estudando sobre programação em geral.
 
 ---
 
