@@ -1,6 +1,6 @@
 <div align="center">
 
-# Olá, me chamo Simone, seja bem-vondo (a) ao meu GitHub! 👋
+# Olá, me chamo Simone, seja bem-vindo (a) ao meu GitHub! 👋
 
 ### Desenvolvedora Backend em formação · .NET · ASP.NET Core
 
