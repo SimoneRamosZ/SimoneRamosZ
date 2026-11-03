@@ -46,14 +46,30 @@ Atuar como **Desenvolvedora Backend (.NET)** em projetos reais, aprender com pes
 
 ---
 
+
 <div align="center">
 
-### 📊 GitHub Stats
+# 👋 Hi, I'm Simone Ramos!
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SimoneRamosZ&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SimoneRamosZ&layout=compact&theme=tokyonight&hide_border=true)
+### 💻 Developer | Technology Enthusiast
+
+---
+
+### 📊 GitHub Statistics
+
+<img width="49%" src="https://github-stats-extended.vercel.app/api?username=SimoneRamosZ&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+<img width="49%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=SimoneRamosZ&layout=compact&theme=tokyonight&hide_border=true" />
+
+### 🔥 Contribution Streak
+
+<img src="https://streak-stats.demolab.com?user=SimoneRamosZ&theme=tokyonight&hide_border=true" />
+
+### 👀 Profile Views
+
+<img src="https://komarev.com/ghpvc/?username=SimoneRamosZ&color=blueviolet&style=flat-square" />
 
 </div>
+
 
 ---
 
