@@ -49,10 +49,6 @@ Atuar como **Desenvolvedora Backend (.NET)** em projetos reais, aprender com pes
 
 <div align="center">
 
-# 👋 Hi, I'm Simone Ramos!
-
-### 💻 Developer | Technology Enthusiast
-
 ---
 
 ### 📊 GitHub Statistics
